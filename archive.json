@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-12-13T01:17:29.967993+00:00",
+  "timestamp": "2022-12-15T01:15:17.212518+00:00",
   "repo": "igorlord/draft-sriram-sidrops-bar-sav",
   "labels": [
     {
@@ -601,24 +601,26 @@
       "id": "PR_kwDOH7q1Mc5FIc_G",
       "title": "Editorial cleanup",
       "url": "https://github.com/igorlord/draft-sriram-sidrops-bar-sav/pull/15",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "igorlord",
       "authorAssociation": "OWNER",
       "assignees": [],
       "labels": [],
       "body": "Minor editorial cleanup",
       "createdAt": "2022-12-12T02:40:18Z",
-      "updatedAt": "2022-12-12T02:40:19Z",
+      "updatedAt": "2022-12-14T01:43:24Z",
       "baseRepository": "igorlord/draft-sriram-sidrops-bar-sav",
       "baseRefName": "main",
       "baseRefOid": "db3b6221ebdbf71372331d539803c0361279f799",
       "headRepository": "igorlord/draft-sriram-sidrops-bar-sav",
       "headRefName": "igor/editorial-cleanup",
       "headRefOid": "96228851e3132d30bf39c816f67fca092445c6a4",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2022-12-14T01:43:24Z",
+      "mergedAt": "2022-12-14T01:43:24Z",
+      "mergedBy": "igorlord",
+      "mergeCommit": {
+        "oid": "214f48283a4f4177c4adc4cae3a91d9d25e578f9"
+      },
       "comments": [],
       "reviews": []
     }
