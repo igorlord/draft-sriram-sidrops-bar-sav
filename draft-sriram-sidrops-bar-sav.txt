@@ -6,9 +6,9 @@ Internet Engineering Task Force (IETF)                         K. Sriram
 Internet-Draft                                                  USA NIST
 Updates: 8704 (if approved)                                  I. Lubashev
 Intended status: Best Current Practice                            Akamai
-Expires: 17 June 2023                                      D. Montgomery
+Expires: 21 June 2023                                      D. Montgomery
                                                                 USA NIST
-                                                        14 December 2022
+                                                        18 December 2022
 
 
   Source Address Validation Using BGP UPDATEs, ASPA, and ROA (BAR-SAV)
@@ -41,7 +41,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 17 June 2023.
+   This Internet-Draft will expire on 21 June 2023.
 
 Copyright Notice
 
@@ -654,7 +654,7 @@ Authors' Addresses
    Igor Lubashev
    Akamai Technologies
    145 Broadway
-   Cambridge , MA 02142
+   Cambridge, MA 02142
    United States of America
    Email: ilubashe@akamai.com
 
