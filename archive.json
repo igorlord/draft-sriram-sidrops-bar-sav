@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-12-15T01:15:17.212518+00:00",
+  "timestamp": "2022-12-20T01:11:22.191210+00:00",
   "repo": "igorlord/draft-sriram-sidrops-bar-sav",
   "labels": [
     {
@@ -620,6 +620,34 @@
       "mergedBy": "igorlord",
       "mergeCommit": {
         "oid": "214f48283a4f4177c4adc4cae3a91d9d25e578f9"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 16,
+      "id": "PR_kwDOH7q1Mc5Ft8fh",
+      "title": "Fix Igor's address",
+      "url": "https://github.com/igorlord/draft-sriram-sidrops-bar-sav/pull/16",
+      "state": "MERGED",
+      "author": "igorlord",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Fix address",
+      "createdAt": "2022-12-18T02:04:29Z",
+      "updatedAt": "2022-12-18T02:05:10Z",
+      "baseRepository": "igorlord/draft-sriram-sidrops-bar-sav",
+      "baseRefName": "main",
+      "baseRefOid": "214f48283a4f4177c4adc4cae3a91d9d25e578f9",
+      "headRepository": "igorlord/draft-sriram-sidrops-bar-sav",
+      "headRefName": "igor/fix-address",
+      "headRefOid": "58e804d9730b2d20edd52af77b0c5874aad5ea5f",
+      "closedAt": "2022-12-18T02:05:05Z",
+      "mergedAt": "2022-12-18T02:05:05Z",
+      "mergedBy": "igorlord",
+      "mergeCommit": {
+        "oid": "171d766615405405ce45030ddd7d857897c27572"
       },
       "comments": [],
       "reviews": []
